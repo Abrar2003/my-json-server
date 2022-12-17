@@ -15,7 +15,8 @@
 		"level": "Junior",
 		"contract": "Full Time",
 		"position": " Backend Developer",
-		"language": "Java"
+		"language": "Java",
+		"id": 1
 	},
 	{
 		"company": "Jinny",
@@ -26,7 +27,8 @@
 		"level": "Junior",
 		"contract": "Full Time",
 		"position": "Junior Frontend Developer",
-		"language": "Java"
+		"language": "Java",
+		"id": 2
 	}
       ]
 }
